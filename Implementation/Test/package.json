@@ -1,0 +1,14 @@
+{
+  "name": "EndToEndTests",
+  "version": "0.0.1",
+  "dependencies": {
+    "assert": "^1.4.1",
+    "chai": "*",
+    "mocha": "*",
+    "phantomjs": "^2.1.7",
+    "request": "^2.79.0",
+    "selenium-standalone": "^5.9.0",
+    "superagent": "^3.3.2",
+    "webdriverio": "^4.4.0"
+  }
+}
